@@ -1,4 +1,4 @@
-export const ReactIcon= () => {
+export const ReactIcon = () => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -26,5 +26,5 @@ export const ReactIcon= () => {
         </linearGradient>
       </defs>
     </svg>
-  );
+  )
 }
